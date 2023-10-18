@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(243, 226, 226)
+}
+.nayana{
+    background-color:yellow;
+}
+#my-id{
+    background-color:pink;
+}
+h1{
+    font-size:60px;
+}
+h2{
+    font-weight:bold;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
